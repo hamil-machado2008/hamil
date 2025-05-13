@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Simple</title>
+</head>
+<body>
+    <h1>¡Hola desde HTML!</h1>
+    <p>Este es un archivo HTML básico.</p>
+    <ul>
+        <li>Elemento de lista uno</li>
+        <li>Elemento de lista dos</li>
+        <li>Elemento de lista tres</li>
+    </ul>
+</body>
+</html>
